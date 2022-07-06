@@ -12,4 +12,6 @@ Beyond the Fundamentals Course Notes
 
 2- A simple collection: 
 
-==> List: Simple collection that groups pieces of data  together in a certain and assign the collection a name
+==> List: Simple collection that groups pieces of data  together in a certain and assign the collection a name [array]
+
+3- Dictionary: for storing related information [json in javascript];
