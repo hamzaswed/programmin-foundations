@@ -6,4 +6,6 @@ Beyond the Fundamentals Course Notes
 
 ==> Organizing data in this way has few advantages
 
-- Uses 
+- Uses your code structure to indicate that multiple pieces of data are related
+- Avoids creating a potentially huge number of variables to track within our code
+- Offers simplefied syntax
