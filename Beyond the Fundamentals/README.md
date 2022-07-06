@@ -4,4 +4,6 @@ Beyond the Fundamentals Course Notes
 
 ==> Collections: Grouping multiple item together and storing them with a single name 
 
-sdafsdafsda
+==> Organizing data in this way has few advantages
+
+- Uses 
