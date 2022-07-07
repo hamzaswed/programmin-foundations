@@ -16,7 +16,9 @@ I. CHAPTER (COLLECTIONS)
 
 ==> List: Simple collection that groups pieces of data  together in a certain and assign the collection a name [array]
 
-3- Dictionary: for storing related information [json in javascript];
+3- Dictionary: for storing related information [json in javascript]
+
+=============================================================================================
 
 II. CHAPTER (ITERATION)
 
