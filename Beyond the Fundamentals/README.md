@@ -1,6 +1,6 @@
-<h1>Beyond the Fundamentals Course Notes</h1>
+<h3>Beyond the Fundamentals Course Notes</h1>
 
-I. CHAPTER (COLLECTIONS)
+<h5>I. CHAPTER (COLLECTIONS)</h5>
 
 1- Understanding Collections
 
