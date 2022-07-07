@@ -1,6 +1,6 @@
-<h3>Beyond the Fundamentals Course Notes</h1>
+## Beyond the Fundamentals Course Notes
 
-<h5>I. CHAPTER (COLLECTIONS)</h5>
+# I. CHAPTER (COLLECTIONS)
 
 1- Understanding Collections
 
@@ -20,7 +20,7 @@
 
 ===========================================================================================
 
-<h5>II. CHAPTER (ITERATION)</h5>
+# II. CHAPTER (ITERATION)
 
 1- Introduction to iteration
 
