@@ -1,4 +1,4 @@
-# Beyond the Fundamentals Course Notes
+# Beyond the Fundamentals Course Notes :bookmark_tabs:
 
 ## I. CHAPTER (COLLECTIONS)
 
