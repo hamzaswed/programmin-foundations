@@ -2,7 +2,7 @@
 
 ## I. CHAPTER (COLLECTIONS)
 
-### 1- Understanding Collections
+#### 1- Understanding Collections
 
 ==> Collections: Grouping multiple item together and storing them with a single name 
 
@@ -12,17 +12,17 @@
 - Avoids creating a potentially huge number of variables to track within our code
 - Offers simplefied syntax
 
-### 2- A simple collection: 
+#### 2- A simple collection: 
 
 ==> List: Simple collection that groups pieces of data  together in a certain and assign the collection a name [array]
 
-### 3- Dictionary: for storing related information [json in javascript]
+#### 3- Dictionary: for storing related information [json in javascript]
 
 ===========================================================================================
 
 ## II. CHAPTER (ITERATION)
 
-### 1- Introduction to iteration
+#### 1- Introduction to iteration
 
 ==> Iteration: repeats the same procedure mutiple times until it reaches a specified endpoint.
 
