@@ -18,7 +18,7 @@ I. CHAPTER (COLLECTIONS)
 
 3- Dictionary: for storing related information [json in javascript]
 
-=============================================================================================
+===========================================================================================
 
 II. CHAPTER (ITERATION)
 
