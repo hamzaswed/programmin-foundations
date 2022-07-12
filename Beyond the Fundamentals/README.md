@@ -35,3 +35,17 @@
   - Indicate whene the loop should stop
 
 ==> **Infinite loop:** bug that can occur whene the ending condition is omitted or specified incorrectly.
+
+===========================================================================================
+
+## III. CHAPTER (USING EXTERNAL CODE)
+
+#### 1- Comparing types of external code
+
+==> **Module:** a file that contains code, like variables or functions (you can controll it and edit or type it).
+
+==> **Package or Library:** using multiple modules togather so thay are distributed and used in a group (you can control it and call it whene do you whant).
+
+==> **Framework:** whene a set of code is not just used together but used in a spacific way (you can't call it whene do you whant so you can use it and it's functionality in your app).
+
+
