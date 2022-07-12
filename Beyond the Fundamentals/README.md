@@ -48,4 +48,39 @@
 
 ==> **Framework:** whene a set of code is not just used together but used in a spacific way (you can't call it whene do you whant so you can use it and it's functionality in your app).
 
+~~
++-----------------------------------------------+
+|  ...........................  ..............  |
+|  : f1() f2()  :  f3()      :  : f4() f5()  :  |
+|  :            :            :  :            :  |
+|  : l1_module1 : l1_module2 :  : l2_module3 :  |
+|  :            :            :  :            :  |
+|  --library1-----------------  --library2----  |
+|                                               |
+|   application.c                               |
+|                                               |
+|       #include l1_module2                     |
+|       #include l2_module3                     |
+|                                               |
+|       int main() {                            |
+|           # case 'reload'                     |
+|           f5();                               |
+|           # case 'start'                      |
+|           f1();                               |
+|           # case 'stop'                       |
+|           f4();                               |
+|       }                                       |
+|                                               |
++-----------------------------------------------+
+
+.................................................
+: FRAMEWORK_X                                   :
+:                                               :
+:     application start                         :
+:     ...                                       :
+:     application reload                        :
+:     application stop                          :
+:     ...                                       :
+:...............................................:
+~~
 
