@@ -48,7 +48,7 @@
 
 ==> **Framework:** whene a set of code is not just used together but used in a spacific way (you can't call it whene do you whant so you can use it and it's functionality in your app).
 
-~~
+```
 +-----------------------------------------------+
 |  ...........................  ..............  |
 |  : f1() f2()  :  f3()      :  : f4() f5()  :  |
@@ -82,5 +82,6 @@
 :     application stop                          :
 :     ...                                       :
 :...............................................:
-~~
+
+```
 
