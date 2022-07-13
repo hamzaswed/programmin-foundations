@@ -87,7 +87,7 @@
 
 ===========================================================================================
 
-## III. CHAPTER (WORKING WITH STRINGS)
+## IV. CHAPTER (WORKING WITH STRINGS)
 
 #### 1- Combining and manipulating strings
 
