@@ -85,3 +85,18 @@
 
 ```
 
+===========================================================================================
+
+## III. CHAPTER (WORKING WITH STRINGS)
+
+#### 1- Combining and manipulating strings
+
+==> **Concatenation:** whene multiple string are combined into a single string.
+
+#### 2- Finding patterns in strings
+
+==> **Slicing:** gating part of a string value.
+
+#### 3- Creating regular exprassions
+
+==> **Regular Expressions:** allows you to create a description of a pattern that you whant to match.
