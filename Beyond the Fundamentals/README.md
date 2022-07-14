@@ -100,3 +100,15 @@
 #### 3- Creating regular exprassions
 
 ==> **Regular Expressions:** allows you to create a description of a pattern that you whant to match.
+
+===========================================================================================
+
+## V. CHAPTER (PLANING A PROGRAM)
+
+#### 1- Chooosing a code style
+
+==> **Style Guides:** documentation on approaches to code.
+
+#### 2- Writing pseudocode
+
+==> **Pseudocode:** writing a description of what you're trying to do using plain language.
