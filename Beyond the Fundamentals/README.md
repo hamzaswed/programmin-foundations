@@ -114,6 +114,8 @@
 ==> **Pseudocode:** writing a description of what you're trying to do using plain language.
 
 ```
+Pseudocode Example:
+
 Check if the user has enterd the number
 
   if not 
@@ -122,5 +124,5 @@ Check if the user has enterd the number
   if yes
     calculate the square root of the number
     
-  DISPLAY THE RESULT
+DISPLAY THE RESULT
 ```
