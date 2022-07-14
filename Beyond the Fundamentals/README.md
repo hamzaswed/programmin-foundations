@@ -124,5 +124,5 @@ Check if the user has enterd the number
   if yes
     calculate the square root of the number
     
-DISPLAY THE RESULT
+Display the result
 ```
