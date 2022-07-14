@@ -112,3 +112,15 @@
 #### 2- Writing pseudocode
 
 ==> **Pseudocode:** writing a description of what you're trying to do using plain language.
+
+```
+Check if the user has enterd the number
+
+  if not 
+    display a massage asking the user to enter a number
+    
+  if yes
+    calculate the square root of the number
+    
+  DISPLAY THE RESULT
+```
