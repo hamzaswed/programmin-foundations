@@ -126,3 +126,18 @@ Check if the user has enterd the number
     
 Display the result
 ```
+
+===========================================================================================
+
+## VI. CHAPTER (DEBUGGING)
+
+#### 1- Introduction to debugging
+
+==> **Debugging:** identifying and fixing bugs.
+
+==> **Syntext Error:** code that dosn't match the rules of the language.
+
+==> **Run-Time Error:** code compiled with all the rules of the language but still not execute successfully like call to a function that isn't ever defined.
+
+==> **Logic Error:** this type of error happens whene the code is run but doesn't produce the results you expect like a loop that counts in the wrong direction cotinues infinitly.
+
