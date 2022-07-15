@@ -137,7 +137,7 @@ Display the result
 
 ==> **Syntext Error:** code that dosn't match the rules of the language.
 
-==> **Run-Time Error:** code compiled with all the rules of the language but still not execute successfully like call to a function that isn't ever defined.
+==> **Run-Time Error:** code compiled with all the rules of the language but still not execute successfully, Like call to a function that isn't ever defined.
 
-==> **Logic Error:** this type of error happens whene the code is run but doesn't produce the results you expect like a loop that counts in the wrong direction cotinues infinitly.
+==> **Logic Error:** this type of error happens whene the code is run but doesn't produce the results you expect, Like a loop that counts in the wrong direction continues infinitly.
 
