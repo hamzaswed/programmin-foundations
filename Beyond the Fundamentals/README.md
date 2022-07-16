@@ -141,3 +141,6 @@ Display the result
 
 ==> **Logic Error:** this type of error happens whene the code is run but doesn't produce the results you expect, Like a loop that counts in the wrong direction continues infinitly.
 
+#### 2- Creating a test case
+
+==> **Test Case:** command or secript designed to test a spesific scenario.
