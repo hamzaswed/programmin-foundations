@@ -158,3 +158,7 @@ Display the result
 #### 2- Intoduction to algorithems
 
 ==> **Algorithem:** a set of instruction to describe the exact result.
+
+#### 3- Intoduction to multithreading
+
+==> **Multithread:** code structure that allwos you to start separate tasks that excuted simultaneously.
