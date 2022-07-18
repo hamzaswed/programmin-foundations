@@ -154,3 +154,7 @@ Display the result
 ==> **Memory management:** code that decides what's kept in memory and what's thrown away.
 
 ==> **Garbage collection:** an automated memory management process that keeps track of which items aren't neeeded and deletes them.
+
+#### 2- Intoduction to algorithems
+
+==> **Algorithem:** a set of instruction to describe the exact result.
