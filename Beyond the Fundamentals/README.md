@@ -144,3 +144,13 @@ Display the result
 #### 2- Creating a test case
 
 ==> **Test Case:** command or secript designed to test a spesific scenario.
+
+===========================================================================================
+
+## VII. CHAPTER (ADVANCED TOPICS)
+
+#### 1- Memory management across languages
+
+==> **Memory management:** code that decides what's kept in memory and what's thrown away.
+
+==> **Garbage collection:** an automated memory management process that keeps track of which items aren't neeeded and deletes them.
