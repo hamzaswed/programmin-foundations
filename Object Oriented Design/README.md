@@ -15,8 +15,8 @@
 ==> **Class Components:**
  
  - Name (What is it?) => RoundCookie
- - Attributes (What describes it?) => weight, color, icing - properties -
- - Behaviors (What can it do?) => decorate(), consume() - methods -
+ - Attributes (What describes it?) => weight, color, icing
+ - Behaviors (What can it do?) => decorate(), consume()
  
  ==> **Method:** a program procedure that can return a value (functions defined as a part of class) and can only accses data known to that object
  
