@@ -14,48 +14,69 @@
 
 ==> **Class Components:**
  
- - Name (What is it?) => RoundCookie - type -
+ - Name (What is it?) => RoundCookie
  - Attributes (What describes it?) => weight, color, icing - properties -
  - Behaviors (What can it do?) => decorate(), consume() - methods -
  
  ==> **Method:** a program procedure that can return a value (functions defined as a part of class) and can only accses known to that object
  
  ```
- Class:
 +-----------------------------------------------+
-                RoundCookie
+Class:
+ 
+ Name: 
+  RoundCookie
             
-             Weight, Color, Icing
-             
-             decorate(), consume()
+ Attributes (properties): 
+  - Weight
+  - Color
+  - Icing
+    
+ Behaviors (methods):             
+  - decorate()
+  - consume()
 +-----------------------------------------------+
 
++-----------------------------------------------+
 Object One:
-+-----------------------------------------------+
-                barronCookie
+
+ Name: 
+  barronCookie
             
-             16 gram, red, true
-             
-             decorate(), consume()
+ Properties:
+  Weight: 16 gram
+  Color: red
+  Icing: true
+    
+ Methods:           
+  decorate()
+  consume()
 +-----------------------------------------------+
 
++-----------------------------------------------+
 Object Two:
-+-----------------------------------------------+
-                oliviaCookie
-            
-             12 gram, blue, false
-             
-             decorate(), consume()
-+-----------------------------------------------+
 
+ Name: 
+  oliviaCookie
+            
+ Properties:
+  Weight: 12 gram
+  Color: blue
+  Icing: false
+    
+ Methods:           
+  decorate()
+  consume()
++-----------------------------------------------+
 ```
 
- ==> **Existing Classes In OO Languages:**  At Minimum
+ ==> **Existing Classes In OO Languages:** 
  
  ```
- - String
- - Date
- - Collections
- - Networking
+ At Minimum
+  - String
+  - Date
+  - Collections
+  - Networking
  ```
 
