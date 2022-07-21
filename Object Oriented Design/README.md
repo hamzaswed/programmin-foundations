@@ -124,3 +124,33 @@ Properties:
 +-----------------------------------------------+
 
  ```
+ 
+ - Encapsulation:
+ 
+--> Make properties and methods privet.
+
+--> Whene make its privet you can access theme only with class method.
+
+
+ ```
++-----------------------------------------------+
+Class 'Has Encapsulated property'
+
+User <User class gets user's info and save them>
+            
+Properties: 
+  - privet password;
+    
+Methods:
+
+- setThePassword(setPassword)
+      privet password = hash(setPassword);
+ 
++-----------------------------------------------+
+
+ Explanation:
+ --> In above Example we can set a new password only by using setThePassword Method.
+ ```
+
+
+
