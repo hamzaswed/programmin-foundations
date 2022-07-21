@@ -80,7 +80,7 @@ Object Two:
   - Networking
  ```
 
-#### 2- Explaning "A PIE" (Abstraction, Encapsulation, Inharitance, Polymorphism)
+#### 2- Explaning "A PIE" (Abstraction, Encapsulation, Inheritance, Polymorphism)
 
 
 - Abstraction:
@@ -152,5 +152,38 @@ Methods:
  --> In above Example we can set a new password only by using setThePassword Method.
  ```
 
+ - Inheritance:
+ 
+--> Base a new object or class on an existing one.
 
+--> Inherite an existing attribute or method.
+
+--> Great form of code reuse.
+
+```
++-----------------------------------------------+
+Lets sade we whant two classes have same Properteis and Methods.
+So we can create a class (Abstract class) has needed Properties and Methods
+
+Class Person (parent class)
+
+Properties: 
+  - Name
+  - Phone
+  - Address
+
+Class Customer (child class) inherites Person class's Properties and Methods
+            
+Properties: 
+  - (Person class's Properties and Methods)
+  - costumerID
+    
+Class Employee (child class) inherites Person class's Properties and Methods
+            
+Properties: 
+  - (Person class's Properties and Methods)
+  - employeeID
+ 
++-----------------------------------------------+
+ ```
 
