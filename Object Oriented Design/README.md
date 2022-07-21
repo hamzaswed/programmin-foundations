@@ -80,3 +80,44 @@ Object Two:
   - Networking
  ```
 
+#### 2- Explaning "A PIE" (Abstraction, Encapsulation, Inharitance, Polymorphism)
+
+- Abstraction:
+ 
+--> Made for other classes to inharit Props & Methods from.
+--> Abstraction classes can't be instantiated [con't create object from].
+--> By using absturaction we discard what's unimportant or irrelevant Props and Methods.
+
+  ```
++-----------------------------------------------+
+Class:
+ 
+ Person: 
+            
+Properties: 
+  - Name
+  - Heihgt
+  - Gender
+    
++-----------------------------------------------+
+
++-----------------------------------------------+
+Another Calsses
+
+Class One <inharit Perons class properties>
+            
+Properties: 
+  - Name => Hamza
+  - Heihgt => 174
+  - Gender => Male
+    
+Class Two <inharit Perons class properties>
+            
+Properties: 
+  - Name => Hind
+  - Heihgt => 160
+  - Gender => Female
+    
++-----------------------------------------------+
+
+ ```
