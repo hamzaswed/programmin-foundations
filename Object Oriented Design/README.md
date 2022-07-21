@@ -85,7 +85,7 @@ Object Two:
 
 - Abstraction:
  
---> Made for other classes to inharit Props & Methods from.
+--> Made for other classes to inherit Props & Methods from.
 
 --> Abstraction classes can't be instantiated [con't create object from].
 
@@ -107,14 +107,14 @@ Properties:
 +-----------------------------------------------+
 Another Calsses
 
-Class One <inharit Perons class properties>
+Class One <inherit Perons class properties>
             
 Properties: 
   - Name => Hamza
   - Heihgt => 174
   - Gender => Male
     
-Class Two <inharit Perons class properties>
+Class Two <inherit Perons class properties>
             
 Properties: 
   - Name => Hind
