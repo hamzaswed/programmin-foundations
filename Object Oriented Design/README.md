@@ -82,10 +82,13 @@ Object Two:
 
 #### 2- Explaning "A PIE" (Abstraction, Encapsulation, Inharitance, Polymorphism)
 
+
 - Abstraction:
  
 --> Made for other classes to inharit Props & Methods from.
+
 --> Abstraction classes can't be instantiated [con't create object from].
+
 --> By using absturaction we discard what's unimportant or irrelevant Props and Methods.
 
   ```
