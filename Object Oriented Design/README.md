@@ -187,3 +187,14 @@ Properties:
 +-----------------------------------------------+
  ```
 
+- Polymorphism:
+ 
+--> Works same as Abstruction class.
+
+--> but whene we use impelemnted (inherited) Properties and Methods form Polymorphism class we should use all them.
+
+--> Or we can override inherited Properties and Method from Polymorphism class to do a same task but in another ways (or doing another taskes).
+
+--> Like make a cup of coffee, we can in several ways do a same cup of coffee.
+
+--> Input (coffee) ==> using the method defined in Polymorphism class 'makeCoffee()' ==> output (cup of coffee).
