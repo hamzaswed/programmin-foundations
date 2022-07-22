@@ -199,6 +199,10 @@ Properties:
 
 --> Input (coffee) ==> using the method defined in Polymorphism class 'makeCoffee()' ==> output (cup of coffee).
 
+--> Dynamic Polymorphism: uses the same interface for methods on different type of objects
+
+--> Static Polymorphism (Method overloading): implements multiple methods with the same name but different parameters
+
 #### 2- Object-oriented (Analysis, Design, Programming)
 
 ==> Whene we need to develop a pice of software, We need to do three things
