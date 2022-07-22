@@ -191,10 +191,24 @@ Properties:
  
 --> Works same as Abstruction class.
 
---> but whene we use impelemnted (inherited) Properties and Methods form Polymorphism class we should use all them.
+--> but whene we use impelemnted (inherited) Properties and Methods from Polymorphism class we should use all them.
 
---> Or we can override inherited Properties and Method from Polymorphism class to do a same task but in another ways (or doing another taskes).
+--> Or we can override them to do a same task but in another ways (or doing another taskes).
 
 --> Like make a cup of coffee, we can in several ways do a same cup of coffee.
 
 --> Input (coffee) ==> using the method defined in Polymorphism class 'makeCoffee()' ==> output (cup of coffee).
+
+#### 2- Object-oriented (Analysis, Design, Programming)
+
+==> Whene we need to develop a pice of software, We need to do three things
+
+- Analysis -> Understand the propblem.
+- Design   -> plan the solution.
+- Propramming -> build the software.
+
+==> And each one of them answers a question
+
+- Analysis -> what do you need to do?
+- Design -> how you going to do it?
+- Programming -> start doing it...
