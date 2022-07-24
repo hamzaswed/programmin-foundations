@@ -216,3 +216,26 @@ Properties:
 - Analysis -> what do you need to do?
 - Design -> how you going to do it?
 - Programming -> start doing it...
+
+===========================================================================================
+
+## II. CHAPTER (REQUIREMENTS)
+
+#### 1- Defining requirements
+
+==> **Requirements:** what does your programm need to do.
+
+==> **Functional Requirements:** what must it do (necessary features).
+
+==> **Non-Functional Requirements:** how shold it do it (hwo shold function).
+
+```
+Non-functional Requirements
+
+- HOW SHOLD IT DO
+- Legal 
+- Performance
+- Support
+- Security
+
+```
